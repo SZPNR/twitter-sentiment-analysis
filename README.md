@@ -16,8 +16,9 @@ Fig1. Visual explanation of how the data pipeline works
 ## Requirements
 
 Conditions to launch the code:
--Java with Maven
--Kafka
--PySpark
--MongoDB
--PostgreSQL
+* Java with Maven
+* Zookeeper
+* Kafka
+* PySpark
+* MongoDB
+* PostgreSQL
