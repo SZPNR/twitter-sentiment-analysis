@@ -12,3 +12,12 @@ The classification and processing of tweets is done on PySpark. Before any analy
 
 Fig1. Visual explanation of how the data pipeline works
 ![streaming](https://user-images.githubusercontent.com/94069984/191958643-960d07b5-90a3-43a9-873b-cdcc1eadd719.jpg)
+
+## Requirements
+
+Conditions to launch the code:
+-Java with Maven
+-Kafka
+-PySpark
+-MongoDB
+-PostgreSQL
